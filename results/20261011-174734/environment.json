@@ -1,0 +1,20 @@
+{
+  "model_id": "Qwen/Qwen2.5-0.5B-Instruct",
+  "model_revision": "7ae557604adf67be50417f59c2c2f167def9a775",
+  "python": "3.13.15",
+  "torch": "2.11.0+cu130",
+  "transformers": "4.57.1",
+  "cuda_runtime": "13.0",
+  "gpu": "Tesla T4",
+  "gpu_total_GiB": 14.56317138671875,
+  "compute_capability": [
+    7,
+    5
+  ],
+  "dtype": "torch.float16",
+  "attention": "sdpa",
+  "seed": 42,
+  "profile": "quick",
+  "warmups": 2,
+  "repeats": 3
+}

@@ -1,0 +1,4 @@
+mode,relative_logit_l2,max_abs_logit_difference,same_generated_tokens
+no_cache,0.0,0.0,True
+fresh_cache,0.0,0.0,True
+prefix_reuse,0.004289162810891867,0.05224609375,True
